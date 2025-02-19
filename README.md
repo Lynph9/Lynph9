@@ -1,110 +1,22 @@
-# Hi, I'm Erkin Erdogan. 👋
+<h1 align="center">Hi 👋, I'm Erkin Erdogan</h1>
+<h3 align="center">I'm a 24-year-old Senior Software Developer with a passion for both full-stack software development and game development. With over 2 years of experience in creating robust applications and immersive games, I continue to evolve my skills—especially within the .NET ecosystem, where I am focused on expanding my expertise.</h3>
 
-I'm a 24-year-old Senior Software Developer with a passion for both full-stack software development and game development. With over 2 years of experience in creating robust applications and immersive games, I continue to evolve my skills—especially within the .NET ecosystem, where I am focused on expanding my expertise.
+- 🔭 I’m currently working on **I'm currently diving into **Advanced .NET** to sharpen my skills, explore cutting-edge practices, and integrate the latest technologies into my projects. My aim is to transition from a junior to a more seasoned .NET developer, constantly pushing the boundaries of what's possible.**
 
----
+- 🌱 Education **Sakarya University Computer Science 2024- Eskisehir Osmangazi University Electrical Electronic Engineering 2019-2024, Certificated on Photoshop and Blender by Navras Academy.**
 
-## Technologies & Tools
+- 👯 What I do **I am dedicated to enhancing my .NET skill set by developing innovative projects. My focus is on building comprehensive solutions that merge functionality with great user experiences—whether that’s through full-stack applications or creative game development. Every project is a step towards a more polished and impressive portfolio.**
 
-### .NET Ecosystem & UI Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="40" height="40" />](https://dotnet.microsoft.com/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspdotnet/aspdotnet-original.svg" alt="ASP.NET Core" width="40" height="40" />](https://dotnet.microsoft.com/apps/aspnet)  
-[<img src="https://docs.microsoft.com/en-us/media/logos/dotnet/logo-dotnet.svg" alt="Blazor" width="40" height="40" />](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Entity_Framework_Core_logo.svg" alt="EF Core" width="40" height="40" />](https://docs.microsoft.com/en-us/ef/core/)  
-[<img src="https://avatars.githubusercontent.com/u/3574077?s=200&v=4" alt="Dapper" width="40" height="40" />](https://github.com/StackExchange/Dapper)
+- 🤝 I’m looking for help with **my 2.5D isometric roguelike pixel art game on Godot. If you are interested feel free to contact me!**
 
-For desktop & cross-platform UI:  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Forms / WPF" width="40" height="40" />](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)  
-[<img src="https://dotnet.microsoft.com/static/images/maui-logo.svg" alt=".NET MAUI" width="40" height="40" />](https://dotnet.microsoft.com/apps/maui)
+- 📫 How to reach me **erkinerdogan.dev@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/erkin-erdoğan-735316196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/erkin-erdoğan-735316196" height="30" width="40" /></a>
+</p>
 
-### Frontend & JavaScript
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />](https://reactjs.org/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />](https://vuejs.org/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />](https://nodejs.org/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />](https://jquery.com/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />](https://getbootstrap.com/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />](https://tailwindcss.com/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />](https://sass-lang.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
----
-
-### Databases
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />](https://www.mysql.com/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />](https://www.postgresql.org/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="Microsoft SQL Server" width="40" height="40" />](https://www.microsoft.com/en-us/sql-server)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />](https://www.mongodb.com/)
-
----
-
-### Game Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />](https://unity.com/)  
-[<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" alt="Godot" width="40" height="40" />](https://godotengine.org/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Unreal_Engine_Logo.svg" alt="Unreal Engine" width="40" height="40" />](https://www.unrealengine.com/)
-
----
-
-### Testing, Security & DevOps
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />](https://git-scm.com/)  
-[<img src="https://www.sourcetreeapp.com/images/sourcetree-icon.png" alt="SourceTree" width="40" height="40" />](https://www.sourcetreeapp.com/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />](https://www.docker.com/)  
-[<img src="https://jestjs.io/img/jest-logo.svg" alt="Jest" width="40" height="40" />](https://jestjs.io/)
-
----
-
-### Design, UI/UX & 3D Modeling
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />](https://www.figma.com/)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40" />](https://www.adobe.com/products/photoshop.html)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40" />](https://www.adobe.com/products/xd.html)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" />](https://www.blender.org/)
-
-For CAD & 3D Modeling:  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/AutoCAD_logo.svg/512px-AutoCAD_logo.svg.png" alt="Autodesk AutoCAD" width="40" height="40" />](https://www.autodesk.com/products/autocad/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autodesk_Inventor_2014_logo.svg/1024px-Autodesk_Inventor_2014_logo.svg.png" alt="Autodesk Inventor" width="40" height="40" />](https://www.autodesk.com/products/inventor/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SolidWorks_logo.svg/512px-SolidWorks_logo.svg.png" alt="SolidWorks" width="40" height="40" />](https://www.solidworks.com/)  
-[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/CATIA_logo.svg/1200px-CATIA_logo.svg.png" alt="CATIA" width="40" height="40" />](https://www.3ds.com/products-services/catia/)
-
----
-
-## Experienced Sectors
-
-- **Full-Stack Software Development:**  
-  Building scalable and efficient web applications from frontend interfaces to robust backend systems.
-- **Game Development:**  
-  Creating immersive experiences using industry-standard game engines like Unreal Engine, Godot, and Unity.
-- **.NET Development:**  
-  While I'm a junior in .NET, I'm rapidly building my expertise through hands-on projects and continuous learning.
-
----
-
-## What I Do
-
-I am dedicated to enhancing my .NET skill set by developing innovative projects. My focus is on building comprehensive solutions that merge functionality with great user experiences—whether that’s through full-stack applications or creative game development. Every project is a step towards a more polished and impressive portfolio.
-
----
-
-## Currently Learning
-
-I'm currently diving into **Advanced .NET** to sharpen my skills, explore cutting-edge practices, and integrate the latest technologies into my projects. My aim is to transition from a junior to a more seasoned .NET developer, constantly pushing the boundaries of what's possible.
-
----
-
-📚 Education
-Sakarya University
-Computer Science 2024-
-Eskisehir Osmangazi University
-Electrical Electronic Engineering 2019-2024
-
-
-🌍 Languages
-English: Near Fluent Proficiency
-Turkish: Full Professional Proficiency
-Japanese: Conversational Proficiency
-## Get in Touch
-
-I'm always excited to connect over new projects or innovative ideas. Feel free to [email me](mailto:erkinerdogan.dev@gmail.com) or check out my [LinkedIn](www.linkedin.com/in/erkin-erdoğan-735316196) and [GitHub](https://github.com/Lynph9).
-
----
-
-*Thanks for stopping by!*
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynph9&show_icons=true&locale=en&layout=compact" alt="lynph9" /></p>
